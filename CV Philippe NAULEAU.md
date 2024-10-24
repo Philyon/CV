@@ -1,4 +1,4 @@
-# CV
+# CV Philippe NAULEAU
 ![photo-philippe-nauleau](https://res.cloudinary.com/opquast/image/upload/c_fill,g_face,h_180,r_max,w_180/v1717707979/ishuntddxjljqlmsznso.jpg "Photo Philippe NAULEAU")
 
 ## Présentation
@@ -18,7 +18,7 @@ Responsable informatique polyvalent avec 10 ans d’expérience, ma capacité à
 
 ## Expérience professionnelle
 ### De 2015 à 2024 : Responsable Informatique et Marketing Digital
-Spode – Lyon (69)
+**Spode – Lyon (69)**
 * Gérer les activités numériques d'un groupement de 4 sociétés : Spode (69) Quatorze Running (74), Trail Running Store (74) et 5doigts.fr
 * Gérer un parc informatique (10 ordinateurs)
 * Administrer les sites e-commerces et les logiciels de caisse
@@ -28,7 +28,7 @@ Spode – Lyon (69)
 * Mettre en place des opérations de marketing et en assurer le suivi
 
 ### De 2019 à aujourd’hui : Webmaster freelance (SASU)
-Phil The Web – Lyon (69)
+**Phil The Web – Lyon (69)**
 * Créer et administrer des sites web vitrines et e-commerce
 * Importer en masse des produits
 * Gérer les catalogues produits et les catégories
@@ -36,7 +36,7 @@ Phil The Web – Lyon (69)
 * Utiliser des outils de marketing automation
 
 ## Hobbies
-* Sport : Course à pied, football, randonnée & alpinisme
-* Musique : Chant, percussions, piano
-* Bénévolat : Secrétaire de l’association Tempose
+* **Sport** : Course à pied, football, randonnée & alpinisme
+* **Musique** : Chant, percussions, piano
+* **Bénévolat** : Secrétaire de l’association Tempose
 Membre de l’équipe technique d’un [spectacle](https://www.youtube.com/watch?v=PYHIljPIdhE) produit chaque année à l’Amphi 3000 de Lyon devant 5000 spectateurs (2 dates)
