@@ -6,10 +6,10 @@ Responsable informatique polyvalent avec 10 ans d’expérience, ma capacité à
 
 ## Informations
 
-:telephone_receiver: 06 21 29 80 45
-:email: nauleau.phil@gmail.com
-:car: Permis B, véhiculé
-:house: Pollionnay
+:telephone_receiver: 06 21 29 80 45<br>
+:email: nauleau.phil@gmail.com<br>
+:car: Permis B, véhiculé<br>
+:house: Pollionnay<br>
 [Linkedin](linkedin.com/in/philippe-nauleau)
 
 ## Formation
