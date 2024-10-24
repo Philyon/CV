@@ -29,11 +29,11 @@ Spode – Lyon (69)
 
 ### De 2019 à aujourd’hui : Webmaster freelance (SASU)
 Phil The Web – Lyon (69)
-Créer et administrer des sites web vitrines et e-commerce
-Importer en masse des produits
-Gérer les catalogues produits et les catégories
-Créer des fiches produits optimisées SEO
-Utiliser des outils de marketing automation
+* Créer et administrer des sites web vitrines et e-commerce
+* Importer en masse des produits
+* Gérer les catalogues produits et les catégories
+* Créer des fiches produits optimisées SEO
+* Utiliser des outils de marketing automation
 
 ## Hobbies
 * Sport : Course à pied, football, randonnée & alpinisme
