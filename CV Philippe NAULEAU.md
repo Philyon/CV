@@ -7,7 +7,10 @@ Responsable informatique polyvalent avec 10 ans d’expérience, ma capacité à
 ## Informations
 
 :telephone_receiver: 06 21 29 80 45
-
+:email: nauleau.phil@gmail.com
+:car: Permis B, véhiculé
+:house: Pollionnay
+[Linkedin](linkedin.com/in/philippe-nauleau)
 
 ## Formation
 * [Certification Opquast](https://directory.opquast.com/fr/certificat/9XVKC7/) - Maîtrise de la Qualité en projet Web (niveau avancé)
