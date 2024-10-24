@@ -14,26 +14,26 @@ Responsable informatique polyvalent avec 10 ans d’expérience, ma capacité à
 
 ## Formation
 * [Certification Opquast](https://directory.opquast.com/fr/certificat/9XVKC7/) - Maîtrise de la Qualité en projet Web (niveau avancé)
-* Master Management du Sport - Poitiers (86)
+* Master Management du Sport - **Faculté des Sciences du Sport – Université de Poitiers** (86)
 
 ## Expérience professionnelle
 ### De 2015 à 2024 : Responsable Informatique et Marketing Digital
 **Spode – Lyon (69)**
-* Gérer les activités numériques d'un groupement de 4 sociétés : Spode (69) Quatorze Running (74), Trail Running Store (74) et 5doigts.fr
-* Gérer un parc informatique (10 ordinateurs)
-* Administrer les sites e-commerces et les logiciels de caisse
-* Gérer et optimiser les catalogues de produits
-* Créer les standards de gestion et rédiger tous les contenus des sites
-* Concevoir des supports de communication
-* Mettre en place des opérations de marketing et en assurer le suivi
+* *Gérer les activités numériques d'un groupement de 4 sociétés : Spode (69) Quatorze Running (74), Trail Running Store (74) et 5doigts.fr*
+* *Gérer un parc informatique (10 ordinateurs)*
+* *Administrer les sites e-commerces et les logiciels de caisse*
+* *Gérer et optimiser les catalogues de produits*
+* *Créer les standards de gestion et rédiger tous les contenus des sites*
+* *Concevoir des supports de communication*
+* *Mettre en place des opérations de marketing et en assurer le suivi*
 
 ### De 2019 à aujourd’hui : Webmaster freelance (SASU)
 **Phil The Web – Lyon (69)**
-* Créer et administrer des sites web vitrines et e-commerce
-* Importer en masse des produits
-* Gérer les catalogues produits et les catégories
-* Créer des fiches produits optimisées SEO
-* Utiliser des outils de marketing automation
+* *Créer et administrer des sites web vitrines et e-commerce*
+* *Importer en masse des produits*
+* *Gérer les catalogues produits et les catégories*
+* *Créer des fiches produits optimisées SEO*
+* *Utiliser des outils de marketing automation*
 
 ## Hobbies
 * **Sport** : Course à pied, football, randonnée & alpinisme
