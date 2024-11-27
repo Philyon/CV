@@ -1,6 +1,8 @@
 # CV Philippe NAULEAU
 ![photo-philippe-nauleau](https://res.cloudinary.com/opquast/image/upload/c_fill,g_face,h_180,r_max,w_180/v1717707979/ishuntddxjljqlmsznso.jpg "Photo Philippe NAULEAU")
 
+<img src="https://res.cloudinary.com/opquast/image/upload/c_fill,g_face,h_180,r_max,w_180/v1717707979/ishuntddxjljqlmsznso.jpg" alt="Description" width="300">
+
 ## Présentation
 > Responsable informatique polyvalent avec 10 ans d’expérience, ma capacité à optimiser les processus, à trouver des solutions innovantes et à assurer une excellence opérationnelle a été démontrée à travers la gestion de plusieurs sites e-commerce. Curieux, motivé et prêt à relever de nouveaux défis, je cherche à évoluer vers le poste de Technicien Supérieur Systèmes et Réseaux.
 
